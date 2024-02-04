@@ -1,0 +1,4 @@
+movie:inception,titanic,jurassicpark,starwars,gladiator
+actor:alpacino,tomhanks,bradpitt,robertdeniro,tomcruise,willsmith
+country:afghanistan,belgium,colombia,ethiopia,indonesia,mauritius
+sport:soccer,cricket,volleyball,archery,rowing,karate,rafting
